@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.conversor {
+    margin: 20px auto;
+    max-width: 300px;
+    padding: 10px;
+    border: 1px solid #f6f6fa;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.resultado {
+    margin-top: 20px;
+}
+
+
